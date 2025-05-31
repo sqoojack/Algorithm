@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/sqoojack/Documents/博涵公司/Leetcode/GPE/solve",
+      "program": "/Users/sqoojack/Documents/博涵公司/Leetcode/GPE/solve/build/Debug/outDebug"
+    }
+  ]
+}
